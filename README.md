@@ -66,3 +66,9 @@ Now you are able to run the whole sPHENIX simulation + reconstruction chain. Man
 * Checkout the [evaluator Ntuples](https://wiki.bnl.gov/sPHENIX/index.php/Tracking) output from your 10 events for a generic look of the reconstructed data.
 * Run [sPHENIX software tutorials](https://github.com/sPHENIX-Collaboration/tutorials).
 * [Write your analysis module for more dedicated analysis](https://wiki.bnl.gov/sPHENIX/index.php/Example_of_using_DST_nodes), for which the module produced the evaluator NTuple ([CaloEvaluator](https://sphenix-collaboration.github.io/doxygen/dd/d59/classCaloEvaluator.html), [JetEvaluator](https://sphenix-collaboration.github.io/doxygen/dd/d59/classCaloEvaluator.html), [SvtxEvaluator](https://sphenix-collaboration.github.io/doxygen/d6/d11/classSvtxEvaluator.html)) can usually serve as good examples.
+
+
+
+
+
+Edited on 28/3/2021
