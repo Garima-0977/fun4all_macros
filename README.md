@@ -72,3 +72,5 @@ Now you are able to run the whole sPHENIX simulation + reconstruction chain. Man
 
 
 Edited on 28/3/2021
+
+Current time is 20:28
